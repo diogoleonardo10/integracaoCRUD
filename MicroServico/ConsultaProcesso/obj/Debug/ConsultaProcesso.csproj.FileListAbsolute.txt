@@ -1,0 +1,9 @@
+C:\Users\diogo\Desktop\integracaoCRUD\MicroServico\ConsultaProcesso\bin\Debug\ConsultaProcesso.exe
+C:\Users\diogo\Desktop\integracaoCRUD\MicroServico\ConsultaProcesso\bin\Debug\ConsultaProcesso.pdb
+C:\Users\diogo\Desktop\integracaoCRUD\MicroServico\ConsultaProcesso\bin\Debug\Newtonsoft.Json.dll
+C:\Users\diogo\Desktop\integracaoCRUD\MicroServico\ConsultaProcesso\bin\Debug\Newtonsoft.Json.xml
+C:\Users\diogo\Desktop\integracaoCRUD\MicroServico\ConsultaProcesso\obj\Debug\ConsultaProcesso.csprojAssemblyReference.cache
+C:\Users\diogo\Desktop\integracaoCRUD\MicroServico\ConsultaProcesso\obj\Debug\ConsultaProcesso.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\integracaoCRUD\MicroServico\ConsultaProcesso\obj\Debug\ConsultaProcesso.csproj.CopyComplete
+C:\Users\diogo\Desktop\integracaoCRUD\MicroServico\ConsultaProcesso\obj\Debug\ConsultaProcesso.exe
+C:\Users\diogo\Desktop\integracaoCRUD\MicroServico\ConsultaProcesso\obj\Debug\ConsultaProcesso.pdb

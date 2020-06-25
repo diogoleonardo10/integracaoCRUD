@@ -13,12 +13,19 @@ namespace ConsultaProcesso
         /// </summary>
         static void Main()
         {
-            ServiceBase[] ServicesToRun;
+
+#if DEBUG
+            ServicoConsultaProcesso Servico = new ServicoConsultaProcesso();
+            Servico.OnDebug();
+            System.Threading.Thread.Sleep(10000);
+#else
+#endif
+            /*ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
                 new ServicoConsultaProcesso()
             };
-            ServiceBase.Run(ServicesToRun);
+            ServiceBase.Run(ServicesToRun);*/
         }
     }
 }

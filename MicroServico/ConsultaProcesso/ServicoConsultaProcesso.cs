@@ -31,6 +31,11 @@ namespace ConsultaProcesso
 
         }
 
+        public void OnDebug()
+        {
+            OnStart(null);
+        }
+
         protected override void OnStop()
         {
         }
@@ -45,7 +50,7 @@ namespace ConsultaProcesso
             {
                 List<Movimento> listaMovimento = new List<Movimento>(); //declarar uma nova instancia de uma lista de movimentos
 
-                var requisicao = HttpWebRequest.Create("http://localhost:56312/api/movimento"); //criar a requisição para o endpoint de consulta de movimento
+                var requisicao = HttpWebRequest.Create("https://localhost:44372/api/movimento"); //criar a requisição para o endpoint de consulta de movimento
                 requisicao.ContentType = "application/json"; //tipo JSON
                 requisicao.Method = "GET"; //método GET
 
