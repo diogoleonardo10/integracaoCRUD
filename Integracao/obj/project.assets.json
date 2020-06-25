@@ -6041,11 +6041,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diogo\\Source\\repos\\Integracao\\Integracao.csproj",
+      "projectUniqueName": "C:\\Users\\diogo\\Desktop\\integracaoCRUD\\Integracao\\Integracao.csproj",
       "projectName": "Integracao",
-      "projectPath": "C:\\Users\\diogo\\Source\\repos\\Integracao\\Integracao.csproj",
+      "projectPath": "C:\\Users\\diogo\\Desktop\\integracaoCRUD\\Integracao\\Integracao.csproj",
       "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diogo\\Source\\repos\\Integracao\\obj\\",
+      "outputPath": "C:\\Users\\diogo\\Desktop\\integracaoCRUD\\Integracao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

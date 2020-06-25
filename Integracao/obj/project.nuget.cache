@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qh/9yKcTk+XjTvYFjE9F0MQAy4Xt0Cz85NRAstgQ2jBCLI8Jj29YdKJTOwlC+3my6/SgTYRaaPcfySeyEL3GqQ==",
+  "dgSpecHash": "cGqRuIBjv7lzMCTkyqL45JiJI882kexCR40r2PBYGdSm0GYQH1vZLF0ntA1Hv5RnbrnCl6bgKIcZnbnmlx8J+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diogo\\Source\\repos\\Integracao\\Integracao.csproj",
+  "projectFilePath": "C:\\Users\\diogo\\Desktop\\integracaoCRUD\\Integracao\\Integracao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diogo\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\diogo\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
